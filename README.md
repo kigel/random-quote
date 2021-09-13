@@ -1,2 +1,2 @@
 # random-quote
-a test for API'
+a test for APIs
